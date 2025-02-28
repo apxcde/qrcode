@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"ImageTest::test_it_loads_an_image_string_into_a_resource":0.04,"ImageTest::test_it_gets_the_correct_height":0.004,"ImageTest::test_it_gets_the_correct_width":0.004}}

@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use SimpleSoftwareIO\QrCode\DataTypes\SMS;
+use Apxcde\QrCode\DataTypes\SMS;
 
 class SMSTest extends TestCase
 {

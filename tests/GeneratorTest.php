@@ -3,7 +3,6 @@
 use BaconQrCode\Renderer\Eye\SimpleCircleEye;
 use BaconQrCode\Renderer\Eye\SquareEye;
 use BaconQrCode\Renderer\Image\EpsImageBackEnd;
-use BaconQrCode\Renderer\Image\ImagickImageBackEnd;
 use BaconQrCode\Renderer\Image\SvgImageBackEnd;
 use BaconQrCode\Renderer\Module\DotsModule;
 use BaconQrCode\Renderer\Module\RoundnessModule;
@@ -11,7 +10,7 @@ use BaconQrCode\Renderer\Module\SquareModule;
 use BaconQrCode\Renderer\RendererStyle\Gradient;
 use BaconQrCode\Renderer\RendererStyle\RendererStyle;
 use PHPUnit\Framework\TestCase;
-use SimpleSoftwareIO\QrCode\Generator;
+use Apxcde\QrCode\Generator;
 
 class GeneratorTest extends TestCase
 {

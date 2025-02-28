@@ -29,7 +29,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SimpleSoftwareIO\\QrCode\\": "src"
+            "Apxcde\\QrCode\\": "src"
         }
     },
     "scripts": {
@@ -38,10 +38,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "SimpleSoftwareIO\\QrCode\\QrCodeServiceProvider"
+                "Apxcde\\QrCode\\QrCodeServiceProvider"
             ],
             "aliases": {
-                "QrCode": "SimpleSoftwareIO\\QrCode\\Facades\\QrCode"
+                "QrCode": "Apxcde\\QrCode\\Facades\\QrCode"
             }
         }
     }
