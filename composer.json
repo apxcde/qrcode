@@ -1,14 +1,10 @@
 {
-    "name": "apexcode/qrcode",
+    "name": "apxcde/qrcode",
     "description": "QrCode is a QR code generator made for Laravel.",
     "keywords": ["qrcode", "laravel", "simple", "generator", "wrapper"],
     "homepage": "https://www.apexcode.dev/",
     "license" : "MIT",
     "authors": [
-        {
-            "name": "Simple Software LLC",
-            "email": "support@simplesoftware.io"
-        },
         {
             "name": "APEXCODE",
             "email": "support@apexcode.dev"
